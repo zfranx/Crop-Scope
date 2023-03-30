@@ -1,0 +1,4 @@
+#Sun Mar 26 23:53:33 ICT 2023
+base.0=C\:\\Users\\1\\Downloads\\Plant-Disease-Detector-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

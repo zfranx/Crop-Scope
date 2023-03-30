@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\1\\Downloads\\Plant-Disease-Detector-main\\build\\image_picker_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e1b7c782e3735c54193c24816d59188f\\transformed\\core-1.9.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Downloads\\Plant-Disease-Detector-main\\build\\image_picker_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e1b7c782e3735c54193c24816d59188f\\transformed\\core-1.9.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Downloads\\Plant-Disease-Detector-main\\build\\image_picker_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e1b7c782e3735c54193c24816d59188f\\transformed\\core-1.9.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\Downloads\\Plant-Disease-Detector-main\\build\\image_picker_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\1\\.gradle\\caches\\transforms-3\\e1b7c782e3735c54193c24816d59188f\\transformed\\core-1.9.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

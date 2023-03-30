@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/suis/cropscope/cropscope/BuildConfig.java
+ com.suis.cropscope.cropscope.BuildConfig

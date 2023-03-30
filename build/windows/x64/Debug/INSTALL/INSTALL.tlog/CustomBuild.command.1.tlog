@@ -1,0 +1,10 @@
+^C:\USERS\1\DOWNLOADS\CROP-SCOPE-MAIN\BUILD\WINDOWS\CMAKEFILES\B595863F407FBA93D4F9D8871470A6D1\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

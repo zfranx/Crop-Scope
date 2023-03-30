@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:4:4-34:19
+MERGED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\1\.gradle\caches\transforms-3\a99f0b158c3db97c515e816f41a4516e\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\1\.gradle\caches\transforms-3\a99f0b158c3db97c515e816f41a4516e\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\1\.gradle\caches\transforms-3\cd09ccb540d8a22377d9245660aceb12\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\1\.gradle\caches\transforms-3\cd09ccb540d8a22377d9245660aceb12\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\1\.gradle\caches\transforms-3\4f751acd0c2a8284d39a70a58a6fa992\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\1\.gradle\caches\transforms-3\4f751acd0c2a8284d39a70a58a6fa992\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\1\.gradle\caches\transforms-3\b0d40c89328d477c2c2d7f8c3e4f4920\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\1\.gradle\caches\transforms-3\b0d40c89328d477c2c2d7f8c3e4f4920\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:7:9-43
+	android:name
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:6:9-42
+manifest
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:tflite] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\1\.gradle\caches\transforms-3\dcecd669f7ef2fce417cdd22827a05be\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\1\.gradle\caches\transforms-3\8c42534140d416970f93d4ba3f1f8eca\transformed\jetified-activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e47c8521b1c5a601acd7a6f8a4745d8e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\1\.gradle\caches\transforms-3\8ac143be00ae72f517412511e07c5151\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\1\.gradle\caches\transforms-3\88cdd7b66e2157cfe473fc122e9a24de\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\aed06efd7ac81beebf11d48604ab1eff\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\1\.gradle\caches\transforms-3\a99f0b158c3db97c515e816f41a4516e\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\1\.gradle\caches\transforms-3\cd09ccb540d8a22377d9245660aceb12\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e78c7c9871fdcdd3f76104eb25b44c68\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\1\.gradle\caches\transforms-3\5efcc4cd92da982b07dc9e82af5ca264\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\1\.gradle\caches\transforms-3\77a385a978ec8d3ccecda19444216074\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\1\.gradle\caches\transforms-3\ce42b93098d6c185317cafaa356ff667\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\1\.gradle\caches\transforms-3\ddaefad0d231d3a9945d6866928e1e10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\1\.gradle\caches\transforms-3\4f751acd0c2a8284d39a70a58a6fa992\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\1\.gradle\caches\transforms-3\34eb10ce4931cdcb269497ebd94a0713\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\1\.gradle\caches\transforms-3\5825b41e30910ed1275350665f7586d6\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\1\.gradle\caches\transforms-3\359cfa71d70acdb41ab96bc0ff16f695\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\1\.gradle\caches\transforms-3\e04d31a9a4dac1fa06fb732d8fa80f99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\1\.gradle\caches\transforms-3\34d00ac190c232d6426480e3f73c5638\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\1\.gradle\caches\transforms-3\bb03220286de719d2ffd0400b8d6446f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\1\.gradle\caches\transforms-3\b0d40c89328d477c2c2d7f8c3e4f4920\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:3:22-77
+uses-sdk
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:tflite] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\tflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\1\.gradle\caches\transforms-3\dcecd669f7ef2fce417cdd22827a05be\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\1\.gradle\caches\transforms-3\dcecd669f7ef2fce417cdd22827a05be\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\1\.gradle\caches\transforms-3\8c42534140d416970f93d4ba3f1f8eca\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\1\.gradle\caches\transforms-3\8c42534140d416970f93d4ba3f1f8eca\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e47c8521b1c5a601acd7a6f8a4745d8e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e47c8521b1c5a601acd7a6f8a4745d8e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\1\.gradle\caches\transforms-3\8ac143be00ae72f517412511e07c5151\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\1\.gradle\caches\transforms-3\8ac143be00ae72f517412511e07c5151\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\1\.gradle\caches\transforms-3\88cdd7b66e2157cfe473fc122e9a24de\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\1\.gradle\caches\transforms-3\88cdd7b66e2157cfe473fc122e9a24de\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\aed06efd7ac81beebf11d48604ab1eff\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\aed06efd7ac81beebf11d48604ab1eff\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\1\.gradle\caches\transforms-3\a99f0b158c3db97c515e816f41a4516e\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\1\.gradle\caches\transforms-3\a99f0b158c3db97c515e816f41a4516e\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\1\.gradle\caches\transforms-3\cd09ccb540d8a22377d9245660aceb12\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\1\.gradle\caches\transforms-3\cd09ccb540d8a22377d9245660aceb12\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e78c7c9871fdcdd3f76104eb25b44c68\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\1\.gradle\caches\transforms-3\e78c7c9871fdcdd3f76104eb25b44c68\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\1\.gradle\caches\transforms-3\5efcc4cd92da982b07dc9e82af5ca264\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\1\.gradle\caches\transforms-3\5efcc4cd92da982b07dc9e82af5ca264\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\1\.gradle\caches\transforms-3\77a385a978ec8d3ccecda19444216074\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\1\.gradle\caches\transforms-3\77a385a978ec8d3ccecda19444216074\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\1\.gradle\caches\transforms-3\ce42b93098d6c185317cafaa356ff667\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\1\.gradle\caches\transforms-3\ce42b93098d6c185317cafaa356ff667\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\1\.gradle\caches\transforms-3\ddaefad0d231d3a9945d6866928e1e10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\1\.gradle\caches\transforms-3\ddaefad0d231d3a9945d6866928e1e10\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\1\.gradle\caches\transforms-3\4f751acd0c2a8284d39a70a58a6fa992\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\1\.gradle\caches\transforms-3\4f751acd0c2a8284d39a70a58a6fa992\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\1\.gradle\caches\transforms-3\34eb10ce4931cdcb269497ebd94a0713\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\1\.gradle\caches\transforms-3\34eb10ce4931cdcb269497ebd94a0713\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\1\.gradle\caches\transforms-3\5825b41e30910ed1275350665f7586d6\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\1\.gradle\caches\transforms-3\5825b41e30910ed1275350665f7586d6\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\1\.gradle\caches\transforms-3\359cfa71d70acdb41ab96bc0ff16f695\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\1\.gradle\caches\transforms-3\359cfa71d70acdb41ab96bc0ff16f695\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\1\.gradle\caches\transforms-3\e04d31a9a4dac1fa06fb732d8fa80f99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\1\.gradle\caches\transforms-3\e04d31a9a4dac1fa06fb732d8fa80f99\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\1\.gradle\caches\transforms-3\34d00ac190c232d6426480e3f73c5638\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\1\.gradle\caches\transforms-3\34d00ac190c232d6426480e3f73c5638\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\1\.gradle\caches\transforms-3\bb03220286de719d2ffd0400b8d6446f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\1\.gradle\caches\transforms-3\bb03220286de719d2ffd0400b8d6446f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\1\.gradle\caches\transforms-3\b0d40c89328d477c2c2d7f8c3e4f4920\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\1\.gradle\caches\transforms-3\b0d40c89328d477c2c2d7f8c3e4f4920\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:7:5-8:41
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+activity#com.suis.cropscope.cropscope.MainActivity
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:8:9-28:20
+	android:launchMode
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:11:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:10:13-36
+	android:configChanges
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:9:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:21:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from C:\Users\1\Downloads\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:32:13-44
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\1\Downloads\Plant-Disease-Detector-main\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\1\.gradle\caches\transforms-3\2d23328e5fbd1e69f10064dad0947605\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.suis.cropscope.cropscope.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.suis.cropscope.cropscope.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\1\.gradle\caches\transforms-3\e1b7c782e3735c54193c24816d59188f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
